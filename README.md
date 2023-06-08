@@ -1,6 +1,6 @@
 # Aee717 Project
 
-- Download my slurm script to run on TRUBA
+- Download my slurm script ( https://github.com/tugluk/aee717/blob/main/ozan_slurm.sh ) to run on TRUBA
 - Upload this script to TRUBA login nodes
 - Replace my username (otugluk) with your username in the script
 - Likewise change the run directory (/truba/home/...) with your own home directory
